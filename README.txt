@@ -1,0 +1,1 @@
+Here you can find Logistic Regression Projec. You can open it in jupyter notebook. I used a dataset with information of pateints health and information if they have (1) or not (0) heart desese. I made a few plots based na the data and created a LR model, checked model's accuracy and gave it new data to predict of patient is ill or not.
